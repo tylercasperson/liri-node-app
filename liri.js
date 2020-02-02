@@ -9,26 +9,6 @@ var action = process.argv[2];
 // var value = process.argv[3];
 
 
-
-
-// axios
-//   .get("https://en.wikipedia.org/wiki/Kudos_(granola_bar)")
-//   .then(function(response) {
-//     console.log(response.data);
-//   })
-//   .catch(function(error) {
-//     if (error.response) {
-//       console.log(error.response.data);
-//       console.log(error.response.status);
-//       console.log(error.response.headers);
-//     } else if (error.request) {
-//       console.log(error.request);
-//     } else {
-//       console.log("Error", error.message);
-//     }
-//     console.log(error.config);
-//   });
-
 switch(inputString[2]) {
     case 'concert-this':
         concertThis();
@@ -152,13 +132,29 @@ axios
 }
 
 function doThis(){
+
+    fs.readFile("./random.txt", "utf8", function(error, data) {
+    if (error) {
+        return console.log(error);
+    }
+    console.log(data.substring(19, 37));
+    //spotify-this-song
+    var randomText = data.substring(0, 7) + data.charAt(13).toUpperCase() + data.substring(14, 17) + '()';
+    var song = data.substring(19, 37);
+    //randomText;
+    //spotifySong(); if then
+    var dataArr = data.split(",");
+    console.log(dataArr);
+    });
+
     console.log('4');
-    spotifySong(fs.readFile("./random.txt", function(err, data){
-        resizeBy.write(data);
-    }));
 }
 
 function defaultChoice(){
     console.log('default');
-    console.log('Something went wrong with the input. Please try again.');
+    console.log('Something went wrong with the input. Please try again. The options are: ');
+    console.log('concert-this (enter artist/band name)');
+    console.log('spotify-this-song (enter song name)');
+    console.log('movie-this (enter movie name)');
+    console.log('do-what-it-says');
 }
