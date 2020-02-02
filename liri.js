@@ -9,8 +9,7 @@ var action = process.argv[2];
 // var value = process.argv[3];
 
 
-// var omdbURL = "http://www.omdbapi.com/?apikey=" + apiKey + "&";
-// var omdbIMG = "http://img.omdbapi.com/?apikey=" + apiKey + "&";
+
 
 // axios
 //   .get("https://en.wikipedia.org/wiki/Kudos_(granola_bar)")
@@ -107,28 +106,49 @@ function spotifySong(){
 }
 
 function movieThis(){
-    // var movie = ;
-    // var title = ;
-    // var yearReleased = ;
-    // var IMDBrating = ;
-    // var rottenTomatoes = ;
-    // var countryProduced = ;
-    // var language = ;
-    // var plot = ;
-    // var actors = ;
-    if(movie === null){
-        var movie = 'Mr Nobody';
+        // if(movie === null){
+    //     var movie = 'Mr Nobody';
+    // } else {
+
+    // }
+    //if(movieName === )//argv is null
+    var movieName = 'the matrix';
+    var omdbURL = "http://www.omdbapi.com/?i=tt3896198&apikey=1b760dd7" + "&t=" + movieName;
+
+axios
+  .get(omdbURL)
+  .then(function(response) {
+
+    var title = response.data.Title;
+    var yearReleased = response.data.Year;
+    var IMDBrating = response.data.Ratings[0].Value;
+    var rottenTomatoes = response.data.Ratings[1].Value;
+    var countryProduced = response.data.Country;
+    var language = response.data.Language;
+    var plot = response.data.Plot;
+    var actors = response.data.Actors;
+
+    console.log('Title: ' + title);
+    console.log('Year released: ' + yearReleased);
+    console.log('IMDB raiting: ' + IMDBrating);
+    console.log('Rotten Tommatoes rating: ' + rottenTomatoes);
+    console.log('Country produced: ' + countryProduced);
+    console.log('Language: ' + language);
+    console.log('Plot: ' + plot);
+    console.log('Actors: ' + actors);
+  })
+  .catch(function(error) {
+    if (error.response) {
+      console.log(error.response.data);
+      console.log(error.response.status);
+      console.log(error.response.headers);
+    } else if (error.request) {
+      console.log(error.request);
     } else {
-        console.log('3');
-        console.log('Title: ' + title);
-        console.log('Year released: ' + yearReleased);
-        console.log('IMDB raiting: ' + IMDBrating);
-        console.log('Rotten Tommatoes rating: ' + rottenTomatoes);
-        console.log('Country produced: ' + countryProduced);
-        console.log('Language: ' + language);
-        console.log('Plot: ' + plot);
-        console.log('Actors: ' + actors);
+      console.log("Error", error.message);
     }
+    console.log(error.config);
+  });
 }
 
 function doThis(){
