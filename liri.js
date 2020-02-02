@@ -77,21 +77,33 @@ axios
 }
 
 function spotifySong(){
-    // var songName = ;
-    // var artists = ;
-    // var songName = ;
-    // var previewLink = ;
-    // var album = ;
-    if(songName === null){
-        var songName = 'The Sign';
-        var artist = 'Ace of Base';
-    } else {
-        console.log('2');
+    var Spotify = require('node-spotify-api');
+
+    var spotify = new Spotify({
+      id: process.env.SPOTIFY_ID,
+      secret: process.env.SPOTIFY_SECRET
+    });
+    var songName = 'The Sign';     
+
+    spotify
+      .search({ type: 'track', query: songName })
+      .then(function(data) {
+        if(songName === null){
+            var songName = 'The Sign';
+        } else {
+            var songName = data.tracks.items[0].name; 
+            var artists = data.tracks.items[0].artists[0].name;
+            var previewLink = data.tracks.items[0].external_urls.spotify;
+            var album = data.tracks.items[0].album.name;
+        }
         console.log('Artist(s): ' + artists);
         console.log('Song name: ' + songName);
         console.log('Preview link: ' + previewLink);
-        console.log('Album: ' + album);    
-    }
+        console.log('Album: ' + album);  
+      })
+      .catch(function(err) {
+        console.error('Error occurred: ' + err); 
+      });
 }
 
 function movieThis(){
