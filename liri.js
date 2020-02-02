@@ -2,12 +2,28 @@ require("dotenv").config();
 var fs = require("fs");
 var axios = require("axios");
 
-//need to type node liri.js case-statement
+const { createLogger, format, transports } = require('winston');
+const { combine, label, timestamp, printf } = format;
+const myFormat = printf(info => `${info.timestamp} - ${info.message}`);
+
+const logger = createLogger({
+  level: 'info',
+  format: combine(
+    label({ label: 'main' }),
+    timestamp(),
+    myFormat
+  ),
+  transports: [
+    
+    new transports.File({
+      filename: 'log.txt',
+      options: { flags: 'a', mode: 0o666 }
+    })
+  ]
+});
 
 var inputString = process.argv;
 var action = process.argv[2];
-// var value = process.argv[3];
-
 
 switch(inputString[2]) {
     case 'concert-this':
@@ -33,13 +49,15 @@ function concertThis() {
 axios
   .get(bandURL)
   .then(function(response) {
-    console.log(response.data[0]);
     var venueName = response.data[0].venue.name;
     var venueLocation = response.data[0].venue.city + ', ' + response.data[0].venue.region + ' ' + response.data[0].venue.country + ' Planet Earth';
     var eventDate = response.data[0].datetime; //convert with moment
     console.log('Name of the venue: ' + venueName);
     console.log('Venue location: ' + venueLocation);
     console.log('Date of the Event: ' + eventDate);
+    logger.info('Name of the venue: ' + venueName);
+    logger.info('Venue location: ' + venueLocation);
+    logger.info('Date of the Event: ' + eventDate);
   })
   .catch(function(error) {
     if (error.response) {
@@ -79,6 +97,10 @@ function spotifySong(){
         console.log('Song name: ' + songName);
         console.log('Preview link: ' + previewLink);
         console.log('Album: ' + album);  
+        logger.info('Artist(s): ' + artists);
+        logger.info('Song name: ' + songName);
+        logger.info('Preview link: ' + previewLink);
+        logger.info('Album: ' + album);  
       })
       .catch(function(err) {
         console.error('Error occurred: ' + err); 
@@ -116,6 +138,15 @@ axios
     console.log('Language: ' + language);
     console.log('Plot: ' + plot);
     console.log('Actors: ' + actors);
+
+    logger.info('Title: ' + title);
+    logger.info('Year released: ' + yearReleased);
+    logger.info('IMDB raiting: ' + IMDBrating);
+    logger.info('Rotten Tommatoes rating: ' + rottenTomatoes);
+    logger.info('Country produced: ' + countryProduced);
+    logger.info('Language: ' + language);
+    logger.info('Plot: ' + plot);
+    logger.info('Actors: ' + actors);
   })
   .catch(function(error) {
     if (error.response) {

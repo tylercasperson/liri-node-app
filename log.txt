@@ -1,0 +1,4 @@
+2020-02-02T22:11:21.160Z - Name of the venue: US Bank Stadium
+2020-02-02T22:14:02.476Z - Name of the venue: US Bank Stadium
+2020-02-02T22:14:02.478Z - Venue location: Minneapolis, MN United States Planet Earth
+2020-02-02T22:14:02.478Z - Date of the Event: 2020-08-22T19:00:00
