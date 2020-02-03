@@ -14,3 +14,7 @@ http://www.omdbapi.com
 https://www.artists.bandsintown.com/managed-actors/artist
 
 command line argument
+
+
+understanding the winston logger
+https://medium.com/front-end-weekly/node-js-logs-in-local-timezone-on-morgan-and-winston-9e98b2b9ca45

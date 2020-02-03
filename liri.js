@@ -2,6 +2,7 @@ require("dotenv").config();
 var fs = require("fs");
 var axios = require("axios");
 
+
 const { createLogger, format, transports } = require('winston');
 const { combine, label, timestamp, printf } = format;
 const myFormat = printf(info => `${info.timestamp} - ${info.message}`);
@@ -23,17 +24,16 @@ const logger = createLogger({
 });
 
 var inputString = process.argv;
-var action = process.argv[2];
 
 switch(inputString[2]) {
     case 'concert-this':
         concertThis();
     break;
     case 'spotify-this-song': 
-        spotifySong();
+        spotifySong((process.argv.splice(3, process.argv.length - 1)).toString().replace(",","+"));
     break;
     case 'movie-this': 
-        movieThis();
+        movieThis((process.argv.splice(3, process.argv.length - 1)).toString().replace(",","+"));
     break;
     case 'do-what-it-says':
         doThis();
@@ -44,7 +44,7 @@ switch(inputString[2]) {
 }
 
 function concertThis() {
-    var artist = 'George Strait'; //change to argv[3]
+    var artist = (process.argv.splice(3, process.argv.length - 1)).toString().replace(",","+");
     var bandURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 axios
   .get(bandURL)
@@ -55,72 +55,61 @@ axios
     console.log('Name of the venue: ' + venueName);
     console.log('Venue location: ' + venueLocation);
     console.log('Date of the Event: ' + eventDate);
+    console.log('------------------------------------------------------------------------------'); 
+    logger.info((process.argv.splice(2, process.argv.length - 1)).toString().replace(","," ") + " " + artist.replace("+"," "));
     logger.info('Name of the venue: ' + venueName);
     logger.info('Venue location: ' + venueLocation);
     logger.info('Date of the Event: ' + eventDate);
+    logger.info('------------------------------------------------------------------------------'); 
   })
   .catch(function(error) {
-    if (error.response) {
-      console.log(error.response.data);
-      console.log(error.response.status);
-      console.log(error.response.headers);
-    } else if (error.request) {
-      console.log(error.request);
-    } else {
-      console.log("Error", error.message);
-    }
-    console.log(error.config);
+    defaultChoice();
   });
 }
 
-function spotifySong(){
-    var Spotify = require('node-spotify-api');
+function spotifySong(songName){
 
+    var Spotify = require('node-spotify-api');
     var spotify = new Spotify({
       id: process.env.SPOTIFY_ID,
       secret: process.env.SPOTIFY_SECRET
     });
-    var songName = 'The Sign';     
 
     spotify
-      .search({ type: 'track', query: songName })
+      .search({ type: 'track', query: songName || 'Ace of Base The Sign'})
       .then(function(data) {
-        if(songName === null){
-            var songName = 'The Sign';
-        } else {
-            var songName = data.tracks.items[0].name; 
-            var artists = data.tracks.items[0].artists[0].name;
-            var previewLink = data.tracks.items[0].external_urls.spotify;
-            var album = data.tracks.items[0].album.name;
-        }
-        console.log('Artist(s): ' + artists);
-        console.log('Song name: ' + songName);
-        console.log('Preview link: ' + previewLink);
-        console.log('Album: ' + album);  
-        logger.info('Artist(s): ' + artists);
-        logger.info('Song name: ' + songName);
-        logger.info('Preview link: ' + previewLink);
-        logger.info('Album: ' + album);  
+          for (var i = 0; i < data.tracks.items.length;i++){
+            var song = data.tracks.items[i].name; 
+            var artists = data.tracks.items[i].artists[0].name;
+            var previewLink = data.tracks.items[i].external_urls.spotify;
+            var album = data.tracks.items[i].album.name;
+            console.log('Artist(s): ' + artists);
+            console.log('Song name: ' + song);
+            console.log('Preview link: ' + previewLink);
+            console.log('Album: ' + album); 
+            console.log('------------------------------------------------------------------------------'); 
+            logger.info(process.argv[2]);
+            logger.info('Artist(s): ' + artists);
+            logger.info('Song name: ' + songName);
+            logger.info('Preview link: ' + previewLink);
+            logger.info('Album: ' + album);    
+            logger.info('------------------------------------------------------------------------------'); 
+          }
       })
       .catch(function(err) {
         console.error('Error occurred: ' + err); 
-      });
+      });  
 }
 
-function movieThis(){
-        // if(movie === null){
-    //     var movie = 'Mr Nobody';
-    // } else {
-
-    // }
-    //if(movieName === )//argv is null
-    var movieName = 'the matrix';
+function movieThis(movieName){
+    if(movieName === null || movieName === ""){
+        var movieName = 'Mr Nobody';
+    } 
     var omdbURL = "http://www.omdbapi.com/?i=tt3896198&apikey=1b760dd7" + "&t=" + movieName;
 
 axios
   .get(omdbURL)
   .then(function(response) {
-
     var title = response.data.Title;
     var yearReleased = response.data.Year;
     var IMDBrating = response.data.Ratings[0].Value;
@@ -138,7 +127,8 @@ axios
     console.log('Language: ' + language);
     console.log('Plot: ' + plot);
     console.log('Actors: ' + actors);
-
+    console.log('------------------------------------------------------------------------------');
+    logger.info(process.argv[2] + " " + title); 
     logger.info('Title: ' + title);
     logger.info('Year released: ' + yearReleased);
     logger.info('IMDB raiting: ' + IMDBrating);
@@ -147,6 +137,7 @@ axios
     logger.info('Language: ' + language);
     logger.info('Plot: ' + plot);
     logger.info('Actors: ' + actors);
+    logger.info('------------------------------------------------------------------------------'); 
   })
   .catch(function(error) {
     if (error.response) {
@@ -165,24 +156,30 @@ axios
 function doThis(){
 
     fs.readFile("./random.txt", "utf8", function(error, data) {
-    if (error) {
-        return console.log(error);
-    }
-    console.log(data.substring(19, 37));
-    //spotify-this-song
-    var randomText = data.substring(0, 7) + data.charAt(13).toUpperCase() + data.substring(14, 17) + '()';
-    var song = data.substring(19, 37);
-    //randomText;
-    //spotifySong(); if then
-    var dataArr = data.split(",");
-    console.log(dataArr);
+        if (error) {
+            return console.log(error);
+        }
+        switch(data.substring(0,data.search(","))){
+            case 'concert-this':
+                concertThis();
+            break;
+            case 'spotify-this-song': 
+                spotifySong(data.substring(data.search('"')+1,data.length-1));
+            break;
+            case 'movie-this': 
+                movieThis(data.substring(data.search('"')+1,data.length-1));
+            break;
+            case 'do-what-it-says':
+                doThis();
+            break;
+            default: 
+                defaultChoice();
+            break;
+        }
     });
-
-    console.log('4');
 }
 
 function defaultChoice(){
-    console.log('default');
     console.log('Something went wrong with the input. Please try again. The options are: ');
     console.log('concert-this (enter artist/band name)');
     console.log('spotify-this-song (enter song name)');

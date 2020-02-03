@@ -1,4 +1,1537 @@
-2020-02-02T22:11:21.160Z - Name of the venue: US Bank Stadium
-2020-02-02T22:14:02.476Z - Name of the venue: US Bank Stadium
-2020-02-02T22:14:02.478Z - Venue location: Minneapolis, MN United States Planet Earth
-2020-02-02T22:14:02.478Z - Date of the Event: 2020-08-22T19:00:00
+2020-02-03T06:30:43.732Z - Artist(s): Ace of Base
+2020-02-03T06:30:43.734Z - Song name: 
+2020-02-03T06:30:43.734Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:30:43.734Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:30:43.734Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.735Z - Artist(s): Killswitch Engage
+2020-02-03T06:30:43.735Z - Song name: 
+2020-02-03T06:30:43.735Z - Preview link: https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13
+2020-02-03T06:30:43.735Z - Album: Atonement
+2020-02-03T06:30:43.735Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.735Z - Artist(s): Black Sabbath
+2020-02-03T06:30:43.735Z - Song name: 
+2020-02-03T06:30:43.735Z - Preview link: https://open.spotify.com/track/6cIYFiz47Hrws4hZ64FCAQ
+2020-02-03T06:30:43.735Z - Album: Mob Rules (2008 Remaster)
+2020-02-03T06:30:43.735Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.735Z - Artist(s): Nujabes
+2020-02-03T06:30:43.735Z - Song name: 
+2020-02-03T06:30:43.735Z - Preview link: https://open.spotify.com/track/2g8vK3m0npTrzsADQAnbVO
+2020-02-03T06:30:43.735Z - Album: Modal Soul
+2020-02-03T06:30:43.735Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.735Z - Artist(s): R.I.O.
+2020-02-03T06:30:43.735Z - Song name: 
+2020-02-03T06:30:43.735Z - Preview link: https://open.spotify.com/track/4CKkgaaGV8t0s39wM1HEg0
+2020-02-03T06:30:43.735Z - Album: The Sign
+2020-02-03T06:30:43.735Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.736Z - Artist(s): Devvon Terrell
+2020-02-03T06:30:43.736Z - Song name: 
+2020-02-03T06:30:43.736Z - Preview link: https://open.spotify.com/track/1JPWW1kfEDQzLNbCWzcngK
+2020-02-03T06:30:43.736Z - Album: The Rawe Sound, Vol 1
+2020-02-03T06:30:43.736Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.736Z - Artist(s): Foo Fighters
+2020-02-03T06:30:43.736Z - Song name: 
+2020-02-03T06:30:43.736Z - Preview link: https://open.spotify.com/track/357EXy4Y7bL0urgaRTvKhz
+2020-02-03T06:30:43.736Z - Album: 01050525
+2020-02-03T06:30:43.736Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.736Z - Artist(s): The Fixx
+2020-02-03T06:30:43.736Z - Song name: 
+2020-02-03T06:30:43.736Z - Preview link: https://open.spotify.com/track/0yzAjMhKNNUWTPYn1zKRDl
+2020-02-03T06:30:43.736Z - Album: Reach The Beach
+2020-02-03T06:30:43.736Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.737Z - Artist(s): BertycoX
+2020-02-03T06:30:43.737Z - Song name: 
+2020-02-03T06:30:43.737Z - Preview link: https://open.spotify.com/track/5UtCByzLqfLIR3jibJu49y
+2020-02-03T06:30:43.737Z - Album: The Signal
+2020-02-03T06:30:43.737Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.737Z - Artist(s): Gary Gulman
+2020-02-03T06:30:43.737Z - Song name: 
+2020-02-03T06:30:43.737Z - Preview link: https://open.spotify.com/track/3CysEECrvxNmbETtF0qY5v
+2020-02-03T06:30:43.737Z - Album: No Can Defend
+2020-02-03T06:30:43.737Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.737Z - Artist(s): Young Oceans
+2020-02-03T06:30:43.737Z - Song name: 
+2020-02-03T06:30:43.737Z - Preview link: https://open.spotify.com/track/1TWTu9vjkhXlG2SuVzgLwN
+2020-02-03T06:30:43.737Z - Album: Steady the Stars (Instrumentals)
+2020-02-03T06:30:43.737Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.737Z - Artist(s): Alex Christensen
+2020-02-03T06:30:43.737Z - Song name: 
+2020-02-03T06:30:43.737Z - Preview link: https://open.spotify.com/track/0BRrNYXiId1FNmFKhO225x
+2020-02-03T06:30:43.737Z - Album: The Sign (feat. Natasha Bedingfield)
+2020-02-03T06:30:43.737Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.737Z - Artist(s): Saxophone Jazz
+2020-02-03T06:30:43.737Z - Song name: 
+2020-02-03T06:30:43.737Z - Preview link: https://open.spotify.com/track/3fzrAvoJTw8JHB34P2kD7a
+2020-02-03T06:30:43.737Z - Album: Smooth Saxophone Jazz
+2020-02-03T06:30:43.737Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): Tash
+2020-02-03T06:30:43.738Z - Song name: 
+2020-02-03T06:30:43.738Z - Preview link: https://open.spotify.com/track/3xDvgHSXAdPMY4bss8wUnw
+2020-02-03T06:30:43.738Z - Album: VOLUME 1
+2020-02-03T06:30:43.738Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): The Mountain Goats
+2020-02-03T06:30:43.738Z - Song name: 
+2020-02-03T06:30:43.738Z - Preview link: https://open.spotify.com/track/24dQ9lqh5sqyXqCk7VCtIA
+2020-02-03T06:30:43.738Z - Album: Bitter Melon Farm
+2020-02-03T06:30:43.738Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): Little Big
+2020-02-03T06:30:43.738Z - Song name: 
+2020-02-03T06:30:43.738Z - Preview link: https://open.spotify.com/track/3yvJVUKoRegW0NkgK5Ukv6
+2020-02-03T06:30:43.738Z - Album: Funeral Rave
+2020-02-03T06:30:43.738Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): Leo
+2020-02-03T06:30:43.738Z - Song name: 
+2020-02-03T06:30:43.738Z - Preview link: https://open.spotify.com/track/1iLutQxA4741kvwzKX4h2a
+2020-02-03T06:30:43.738Z - Album: Leo Metal, Vol. 24
+2020-02-03T06:30:43.738Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): Softpaw
+2020-02-03T06:30:43.738Z - Song name: 
+2020-02-03T06:30:43.738Z - Preview link: https://open.spotify.com/track/5GLiN6RAZRjpEopD70vxwi
+2020-02-03T06:30:43.738Z - Album: The Sign
+2020-02-03T06:30:43.738Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.738Z - Artist(s): The Barden Bellas
+2020-02-03T06:30:43.739Z - Song name: 
+2020-02-03T06:30:43.739Z - Preview link: https://open.spotify.com/track/4dRmnxr8X1r2Kn97tJm7oQ
+2020-02-03T06:30:43.739Z - Album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
+2020-02-03T06:30:43.739Z - ------------------------------------------------------------------------------
+2020-02-03T06:30:43.739Z - Artist(s): JJ DOOM
+2020-02-03T06:30:43.739Z - Song name: 
+2020-02-03T06:30:43.739Z - Preview link: https://open.spotify.com/track/6LnygqpkW6L29fD1K9aqwF
+2020-02-03T06:30:43.739Z - Album: Bookhead
+2020-02-03T06:30:43.739Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.165Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.166Z - Song name: 
+2020-02-03T06:31:28.166Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:31:28.166Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.166Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.166Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.166Z - Song name: 
+2020-02-03T06:31:28.166Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:31:28.166Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.166Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.166Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.166Z - Song name: 
+2020-02-03T06:31:28.166Z - Preview link: https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd
+2020-02-03T06:31:28.166Z - Album: The Bridge (Remastered)
+2020-02-03T06:31:28.166Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.166Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.166Z - Song name: 
+2020-02-03T06:31:28.166Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:31:28.166Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.166Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.167Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.167Z - Song name: 
+2020-02-03T06:31:28.167Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:31:28.167Z - Album: Greatest Hits
+2020-02-03T06:31:28.167Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.167Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.167Z - Song name: 
+2020-02-03T06:31:28.168Z - Preview link: https://open.spotify.com/track/4AxVXHgv0clBuS4dl4S7Gw
+2020-02-03T06:31:28.168Z - Album: Cruel Summer (Remastered)
+2020-02-03T06:31:28.168Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.168Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.168Z - Song name: 
+2020-02-03T06:31:28.168Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:31:28.168Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.168Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.168Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.168Z - Song name: 
+2020-02-03T06:31:28.168Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:31:28.168Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.168Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.168Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.168Z - Song name: 
+2020-02-03T06:31:28.168Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:31:28.168Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.168Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.169Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.169Z - Song name: 
+2020-02-03T06:31:28.169Z - Preview link: https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P
+2020-02-03T06:31:28.169Z - Album: Flowers (Remastered)
+2020-02-03T06:31:28.169Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.169Z - Artist(s): Circa Survive
+2020-02-03T06:31:28.169Z - Song name: 
+2020-02-03T06:31:28.169Z - Preview link: https://open.spotify.com/track/4ukTCxesS90m1UMxsr2zum
+2020-02-03T06:31:28.169Z - Album: On Letting Go: Deluxe Ten Year Edition
+2020-02-03T06:31:28.169Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.169Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.169Z - Song name: 
+2020-02-03T06:31:28.169Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:31:28.169Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.169Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.169Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.169Z - Song name: 
+2020-02-03T06:31:28.169Z - Preview link: https://open.spotify.com/track/2O5MugeVVDlVs4ThMCy1Lm
+2020-02-03T06:31:28.169Z - Album: The Bridge (Remastered)
+2020-02-03T06:31:28.169Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.169Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.169Z - Song name: 
+2020-02-03T06:31:28.169Z - Preview link: https://open.spotify.com/track/2K5CxepRrAWH6GeF1PRkoN
+2020-02-03T06:31:28.169Z - Album: The Bridge (Remastered)
+2020-02-03T06:31:28.170Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.170Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.170Z - Song name: 
+2020-02-03T06:31:28.170Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:31:28.170Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.170Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.170Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.170Z - Song name: 
+2020-02-03T06:31:28.170Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:31:28.170Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:28.170Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.170Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.170Z - Song name: 
+2020-02-03T06:31:28.170Z - Preview link: https://open.spotify.com/track/5wxQw7II2TSFbwjaQcoJVB
+2020-02-03T06:31:28.170Z - Album: The Golden Ratio
+2020-02-03T06:31:28.170Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.170Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.170Z - Song name: 
+2020-02-03T06:31:28.170Z - Preview link: https://open.spotify.com/track/4C4T0u9N2NretcDEP1Zpvy
+2020-02-03T06:31:28.170Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:31:28.170Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.170Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.170Z - Song name: 
+2020-02-03T06:31:28.171Z - Preview link: https://open.spotify.com/track/3SiEMvSrdwEanemmQd48zs
+2020-02-03T06:31:28.171Z - Album: Happy Nation (Remastered)
+2020-02-03T06:31:28.171Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:28.171Z - Artist(s): Ace of Base
+2020-02-03T06:31:28.171Z - Song name: 
+2020-02-03T06:31:28.171Z - Preview link: https://open.spotify.com/track/2iA6iYB1vrX7pmeMR6SjIS
+2020-02-03T06:31:28.171Z - Album: The Bridge (Remastered)
+2020-02-03T06:31:28.171Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.373Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.374Z - Song name: 
+2020-02-03T06:31:42.375Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:31:42.375Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.375Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.375Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.375Z - Song name: 
+2020-02-03T06:31:42.375Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:31:42.375Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.375Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.375Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.375Z - Song name: 
+2020-02-03T06:31:42.375Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:31:42.375Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.375Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.375Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.375Z - Song name: 
+2020-02-03T06:31:42.375Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:31:42.375Z - Album: Greatest Hits
+2020-02-03T06:31:42.375Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.375Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.375Z - Song name: 
+2020-02-03T06:31:42.375Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:31:42.376Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.376Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.376Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.376Z - Song name: 
+2020-02-03T06:31:42.376Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:31:42.376Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.376Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.376Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.376Z - Song name: 
+2020-02-03T06:31:42.376Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:31:42.376Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.376Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.376Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.376Z - Song name: 
+2020-02-03T06:31:42.376Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:31:42.376Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.377Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.377Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.377Z - Song name: 
+2020-02-03T06:31:42.377Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:31:42.377Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.377Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.377Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.377Z - Song name: 
+2020-02-03T06:31:42.377Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:31:42.377Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.377Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.377Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.377Z - Song name: 
+2020-02-03T06:31:42.377Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:31:42.377Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.377Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.377Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.377Z - Song name: 
+2020-02-03T06:31:42.377Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:31:42.377Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:31:42.377Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.378Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.378Z - Song name: 
+2020-02-03T06:31:42.378Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:31:42.378Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.378Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.378Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.378Z - Song name: 
+2020-02-03T06:31:42.378Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:31:42.378Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.378Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.378Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.378Z - Song name: 
+2020-02-03T06:31:42.378Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:31:42.378Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:31:42.378Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.378Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.378Z - Song name: 
+2020-02-03T06:31:42.378Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:31:42.378Z - Album: The Sign (The Remixes)
+2020-02-03T06:31:42.378Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.379Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.379Z - Song name: 
+2020-02-03T06:31:42.379Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:31:42.379Z - Album: The Sign (The Remixes)
+2020-02-03T06:31:42.379Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.379Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.379Z - Song name: 
+2020-02-03T06:31:42.379Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:31:42.379Z - Album: The Sign (The Remixes)
+2020-02-03T06:31:42.379Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.379Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.379Z - Song name: 
+2020-02-03T06:31:42.379Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:31:42.379Z - Album: The Sign (The Remixes)
+2020-02-03T06:31:42.379Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:42.379Z - Artist(s): Ace of Base
+2020-02-03T06:31:42.379Z - Song name: 
+2020-02-03T06:31:42.379Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:31:42.379Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:31:42.379Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.181Z - Artist(s): Pantones
+2020-02-03T06:31:58.182Z - Song name: 
+2020-02-03T06:31:58.182Z - Preview link: https://open.spotify.com/track/1TC3dNYyyz1YO3a8f1bcY2
+2020-02-03T06:31:58.182Z - Album: ¿Quién Quiere Primavera ?
+2020-02-03T06:31:58.182Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.182Z - Artist(s): MARNET
+2020-02-03T06:31:58.182Z - Song name: 
+2020-02-03T06:31:58.183Z - Preview link: https://open.spotify.com/track/3QWmgeC8fMqD2J3hIn29g4
+2020-02-03T06:31:58.183Z - Album: Dag & Nag
+2020-02-03T06:31:58.183Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.183Z - Artist(s): Karaoke Box
+2020-02-03T06:31:58.183Z - Song name: 
+2020-02-03T06:31:58.183Z - Preview link: https://open.spotify.com/track/0jQYAjEb8atbTeLcnuGJTR
+2020-02-03T06:31:58.183Z - Album: Karaoke Box: Reggae Greatest Hits
+2020-02-03T06:31:58.183Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.183Z - Artist(s): The Karaoke Machine
+2020-02-03T06:31:58.183Z - Song name: 
+2020-02-03T06:31:58.183Z - Preview link: https://open.spotify.com/track/4AGTcW9h0QKCN0ADjeA41c
+2020-02-03T06:31:58.183Z - Album: The Karaoke Machine Presents - Karaoke Hot 100, Vol. 8
+2020-02-03T06:31:58.183Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.185Z - Artist(s): Ameritz Audio Karaoke
+2020-02-03T06:31:58.185Z - Song name: 
+2020-02-03T06:31:58.185Z - Preview link: https://open.spotify.com/track/4v2fHGp3EjE3OYVghthvjG
+2020-02-03T06:31:58.185Z - Album: Karaoke - Pop - 1980's Vol 1
+2020-02-03T06:31:58.185Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.185Z - Artist(s): The Karaoke Channel
+2020-02-03T06:31:58.185Z - Song name: 
+2020-02-03T06:31:58.185Z - Preview link: https://open.spotify.com/track/0rD1tglIHsMCSU6ooYkXvn
+2020-02-03T06:31:58.185Z - Album: Female Party - Vol.1- Karaoke
+2020-02-03T06:31:58.185Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.185Z - Artist(s): Alta Marea
+2020-02-03T06:31:58.185Z - Song name: 
+2020-02-03T06:31:58.185Z - Preview link: https://open.spotify.com/track/6c0TIiZFdt3dgL1lXqvyJC
+2020-02-03T06:31:58.185Z - Album: Basi Musicali Hits Vol.8 (Backing Tracks Altamarea)
+2020-02-03T06:31:58.185Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.186Z - Artist(s): The Karaoke Channel
+2020-02-03T06:31:58.186Z - Song name: 
+2020-02-03T06:31:58.186Z - Preview link: https://open.spotify.com/track/1S7F23dHFBhGAGH5ZKOeSJ
+2020-02-03T06:31:58.186Z - Album: The Karaoke Channel - A Taste of Scandinavia
+2020-02-03T06:31:58.186Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.186Z - Artist(s): Karaoke All Star
+2020-02-03T06:31:58.186Z - Song name: 
+2020-02-03T06:31:58.186Z - Preview link: https://open.spotify.com/track/2NtKm4MqsqDBnUsDKeHwNH
+2020-02-03T06:31:58.186Z - Album: Karaoke Backing Track Deluxe Presents: Ace of Base
+2020-02-03T06:31:58.186Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.186Z - Artist(s): Ameritz Audio Karaoke
+2020-02-03T06:31:58.186Z - Song name: 
+2020-02-03T06:31:58.186Z - Preview link: https://open.spotify.com/track/3tnYwXjA76GOTyHsDLg7NP
+2020-02-03T06:31:58.186Z - Album: Karaoke - Female 90s Hits
+2020-02-03T06:31:58.186Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.186Z - Artist(s): Ameritz Audio Karaoke
+2020-02-03T06:31:58.186Z - Song name: 
+2020-02-03T06:31:58.186Z - Preview link: https://open.spotify.com/track/4RBT0AelfQAPblUaPHKLTZ
+2020-02-03T06:31:58.186Z - Album: Ameritz Karaoke Gold - Pop, Vol. 36
+2020-02-03T06:31:58.186Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.187Z - Artist(s): Ameritz Top Tracks
+2020-02-03T06:31:58.187Z - Song name: 
+2020-02-03T06:31:58.187Z - Preview link: https://open.spotify.com/track/6Ni7dOc0GnpKwCbuRRy3c6
+2020-02-03T06:31:58.187Z - Album: Karaoke - In the Style of Ace of Base
+2020-02-03T06:31:58.187Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.187Z - Artist(s): Zoom Karaoke
+2020-02-03T06:31:58.187Z - Song name: 
+2020-02-03T06:31:58.187Z - Preview link: https://open.spotify.com/track/7q7aF6SOhY8qPk5mDstMZB
+2020-02-03T06:31:58.187Z - Album: Zoom Karaoke Gap Fillers, Vol. 87
+2020-02-03T06:31:58.187Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.187Z - Artist(s): Karaoke Jukebox Heroes
+2020-02-03T06:31:58.187Z - Song name: 
+2020-02-03T06:31:58.187Z - Preview link: https://open.spotify.com/track/7vnSPqAmlhnCeTJiVJ8FGM
+2020-02-03T06:31:58.187Z - Album: Karaoke: #1 Hits 1990-1999 Vol. 1
+2020-02-03T06:31:58.187Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.187Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:31:58.187Z - Song name: 
+2020-02-03T06:31:58.187Z - Preview link: https://open.spotify.com/track/4CDruiMh8aO4Sq3VCetN0E
+2020-02-03T06:31:58.187Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:31:58.187Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.188Z - Artist(s): Ameritz Countdown Karaoke
+2020-02-03T06:31:58.188Z - Song name: 
+2020-02-03T06:31:58.188Z - Preview link: https://open.spotify.com/track/2c0rcSPPHWK2BkRcbMOUA2
+2020-02-03T06:31:58.188Z - Album: Karaoke - Sing Reggae, Vol. 2
+2020-02-03T06:31:58.188Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.188Z - Artist(s): ProSource Karaoke
+2020-02-03T06:31:58.188Z - Song name: 
+2020-02-03T06:31:58.188Z - Preview link: https://open.spotify.com/track/4dMUqiiVIZQPzV6yz8SV7m
+2020-02-03T06:31:58.188Z - Album: The Sign (In the Style of Ace of Base) [Karaoke Version] - Single
+2020-02-03T06:31:58.188Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.188Z - Artist(s): Karaoke Backtrax Library
+2020-02-03T06:31:58.188Z - Song name: 
+2020-02-03T06:31:58.188Z - Preview link: https://open.spotify.com/track/4I8oOaOlu4CrDVzY8sQ6wK
+2020-02-03T06:31:58.188Z - Album: Sing in the Style of Pop Hits 39 (Karaoke Version)
+2020-02-03T06:31:58.188Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.188Z - Artist(s): The Karaoke Universe
+2020-02-03T06:31:58.188Z - Song name: 
+2020-02-03T06:31:58.188Z - Preview link: https://open.spotify.com/track/7nPhJjaXwoLsEk91KOxX2H
+2020-02-03T06:31:58.188Z - Album: The Ultimate Karaoke Collection, Vol. 9
+2020-02-03T06:31:58.188Z - ------------------------------------------------------------------------------
+2020-02-03T06:31:58.188Z - Artist(s): Ameritz Karaoke Entertainment
+2020-02-03T06:31:58.188Z - Song name: 
+2020-02-03T06:31:58.188Z - Preview link: https://open.spotify.com/track/0TZs7zNJKko2UD2PjoSbVQ
+2020-02-03T06:31:58.188Z - Album: Pop / Rock - Karaoke Vol. 82
+2020-02-03T06:31:58.188Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.047Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.049Z - Song name: 
+2020-02-03T06:32:44.049Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:32:44.049Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.049Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.049Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.049Z - Song name: 
+2020-02-03T06:32:44.049Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:32:44.049Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.049Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.050Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.050Z - Song name: 
+2020-02-03T06:32:44.050Z - Preview link: https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd
+2020-02-03T06:32:44.050Z - Album: The Bridge (Remastered)
+2020-02-03T06:32:44.050Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.050Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.050Z - Song name: 
+2020-02-03T06:32:44.050Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:32:44.050Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.050Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.050Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.050Z - Song name: 
+2020-02-03T06:32:44.050Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:32:44.050Z - Album: Greatest Hits
+2020-02-03T06:32:44.050Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.051Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.051Z - Song name: 
+2020-02-03T06:32:44.051Z - Preview link: https://open.spotify.com/track/4AxVXHgv0clBuS4dl4S7Gw
+2020-02-03T06:32:44.051Z - Album: Cruel Summer (Remastered)
+2020-02-03T06:32:44.051Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.051Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.051Z - Song name: 
+2020-02-03T06:32:44.051Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:32:44.051Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.051Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.051Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.051Z - Song name: 
+2020-02-03T06:32:44.051Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:32:44.051Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.051Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.051Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.051Z - Song name: 
+2020-02-03T06:32:44.051Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:32:44.051Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.051Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.052Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.052Z - Song name: 
+2020-02-03T06:32:44.052Z - Preview link: https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P
+2020-02-03T06:32:44.052Z - Album: Flowers (Remastered)
+2020-02-03T06:32:44.052Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.052Z - Artist(s): Circa Survive
+2020-02-03T06:32:44.052Z - Song name: 
+2020-02-03T06:32:44.052Z - Preview link: https://open.spotify.com/track/4ukTCxesS90m1UMxsr2zum
+2020-02-03T06:32:44.052Z - Album: On Letting Go: Deluxe Ten Year Edition
+2020-02-03T06:32:44.052Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.052Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.052Z - Song name: 
+2020-02-03T06:32:44.052Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:32:44.052Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.052Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.052Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.052Z - Song name: 
+2020-02-03T06:32:44.052Z - Preview link: https://open.spotify.com/track/2O5MugeVVDlVs4ThMCy1Lm
+2020-02-03T06:32:44.052Z - Album: The Bridge (Remastered)
+2020-02-03T06:32:44.052Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.053Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.053Z - Song name: 
+2020-02-03T06:32:44.053Z - Preview link: https://open.spotify.com/track/2K5CxepRrAWH6GeF1PRkoN
+2020-02-03T06:32:44.053Z - Album: The Bridge (Remastered)
+2020-02-03T06:32:44.053Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.053Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.053Z - Song name: 
+2020-02-03T06:32:44.053Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:32:44.053Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.053Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.053Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.053Z - Song name: 
+2020-02-03T06:32:44.053Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:32:44.053Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:32:44.053Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.053Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.053Z - Song name: 
+2020-02-03T06:32:44.053Z - Preview link: https://open.spotify.com/track/5wxQw7II2TSFbwjaQcoJVB
+2020-02-03T06:32:44.053Z - Album: The Golden Ratio
+2020-02-03T06:32:44.053Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.054Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.054Z - Song name: 
+2020-02-03T06:32:44.054Z - Preview link: https://open.spotify.com/track/4C4T0u9N2NretcDEP1Zpvy
+2020-02-03T06:32:44.054Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:32:44.054Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.054Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.054Z - Song name: 
+2020-02-03T06:32:44.054Z - Preview link: https://open.spotify.com/track/3SiEMvSrdwEanemmQd48zs
+2020-02-03T06:32:44.054Z - Album: Happy Nation (Remastered)
+2020-02-03T06:32:44.054Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:44.054Z - Artist(s): Ace of Base
+2020-02-03T06:32:44.054Z - Song name: 
+2020-02-03T06:32:44.054Z - Preview link: https://open.spotify.com/track/2iA6iYB1vrX7pmeMR6SjIS
+2020-02-03T06:32:44.054Z - Album: The Bridge (Remastered)
+2020-02-03T06:32:44.054Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.711Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.712Z - Song name: 
+2020-02-03T06:32:55.712Z - Preview link: https://open.spotify.com/track/4CDruiMh8aO4Sq3VCetN0E
+2020-02-03T06:32:55.712Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.712Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.713Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.713Z - Song name: 
+2020-02-03T06:32:55.713Z - Preview link: https://open.spotify.com/track/0ADb4W0ouy7BE5ly3VwnIA
+2020-02-03T06:32:55.713Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.713Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.713Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.713Z - Song name: 
+2020-02-03T06:32:55.713Z - Preview link: https://open.spotify.com/track/0EJhe7yezCf4iJUVA1HXMe
+2020-02-03T06:32:55.713Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.713Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.713Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.713Z - Song name: 
+2020-02-03T06:32:55.713Z - Preview link: https://open.spotify.com/track/7Beaeo6HL5IKuGyIAZBkQS
+2020-02-03T06:32:55.713Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.713Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.714Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.714Z - Song name: 
+2020-02-03T06:32:55.714Z - Preview link: https://open.spotify.com/track/3h5MvZmHTbZJCIjPYOTgqq
+2020-02-03T06:32:55.714Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.714Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.714Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.714Z - Song name: 
+2020-02-03T06:32:55.714Z - Preview link: https://open.spotify.com/track/50dNz3DoMWlgkdb7oOJZ2w
+2020-02-03T06:32:55.714Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.714Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.715Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.715Z - Song name: 
+2020-02-03T06:32:55.715Z - Preview link: https://open.spotify.com/track/2r84HBYVFGbvnq2ooPJIQo
+2020-02-03T06:32:55.715Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.715Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.715Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.715Z - Song name: 
+2020-02-03T06:32:55.715Z - Preview link: https://open.spotify.com/track/7lsJvq9gn6RaHKt8w81YkN
+2020-02-03T06:32:55.715Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.715Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.715Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.715Z - Song name: 
+2020-02-03T06:32:55.715Z - Preview link: https://open.spotify.com/track/00JijxephGsgBTm0XmXKZf
+2020-02-03T06:32:55.715Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.715Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.715Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.715Z - Song name: 
+2020-02-03T06:32:55.715Z - Preview link: https://open.spotify.com/track/01oyAqsZKulkAhzxDe0nS3
+2020-02-03T06:32:55.715Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.715Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.716Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.716Z - Song name: 
+2020-02-03T06:32:55.716Z - Preview link: https://open.spotify.com/track/3MvwfO2f44GUgqsf5e8xnt
+2020-02-03T06:32:55.716Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.716Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.716Z - Artist(s): Charttraxx Karaoke
+2020-02-03T06:32:55.716Z - Song name: 
+2020-02-03T06:32:55.716Z - Preview link: https://open.spotify.com/track/13pBdSnfq0v2MRcAn8fyUv
+2020-02-03T06:32:55.716Z - Album: Artist Karaoke, Vol. 102
+2020-02-03T06:32:55.716Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.716Z - Artist(s): The Karaoke Channel
+2020-02-03T06:32:55.716Z - Song name: 
+2020-02-03T06:32:55.716Z - Preview link: https://open.spotify.com/track/7LP1g2jaRq14wbVkMupfcg
+2020-02-03T06:32:55.716Z - Album: The Karaoke Channel - Songs That Were an Artist's First Hit Vol. 5
+2020-02-03T06:32:55.716Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.716Z - Artist(s): The Karaoke Channel
+2020-02-03T06:32:55.716Z - Song name: 
+2020-02-03T06:32:55.716Z - Preview link: https://open.spotify.com/track/2x2TNoIsjPL9SnFhbrIAgL
+2020-02-03T06:32:55.716Z - Album: The Karaoke Channel - Songs That Were an Artist's First Hit Vol. 5
+2020-02-03T06:32:55.716Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.717Z - Artist(s): BT Band
+2020-02-03T06:32:55.717Z - Song name: 
+2020-02-03T06:32:55.717Z - Preview link: https://open.spotify.com/track/0w1qZRmaXxRIBPwIU73oms
+2020-02-03T06:32:55.717Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.717Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.717Z - Artist(s): BT Band
+2020-02-03T06:32:55.717Z - Song name: 
+2020-02-03T06:32:55.717Z - Preview link: https://open.spotify.com/track/22B4E06HXY7wnFnagJrxNO
+2020-02-03T06:32:55.717Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.717Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.717Z - Artist(s): BT Band
+2020-02-03T06:32:55.717Z - Song name: 
+2020-02-03T06:32:55.717Z - Preview link: https://open.spotify.com/track/2ySyw9fVci5tO5nTSJi7tK
+2020-02-03T06:32:55.717Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.717Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.717Z - Artist(s): BT Band
+2020-02-03T06:32:55.717Z - Song name: 
+2020-02-03T06:32:55.717Z - Preview link: https://open.spotify.com/track/056SvjulBFucx9VAR2oseI
+2020-02-03T06:32:55.717Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.717Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.718Z - Artist(s): BT Band
+2020-02-03T06:32:55.718Z - Song name: 
+2020-02-03T06:32:55.718Z - Preview link: https://open.spotify.com/track/2jn2f9LOH7HiIQmRbkJtel
+2020-02-03T06:32:55.718Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.718Z - ------------------------------------------------------------------------------
+2020-02-03T06:32:55.718Z - Artist(s): BT Band
+2020-02-03T06:32:55.718Z - Song name: 
+2020-02-03T06:32:55.718Z - Preview link: https://open.spotify.com/track/4W1BtoUeumFReFl7zEmhql
+2020-02-03T06:32:55.718Z - Album: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+2020-02-03T06:32:55.718Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.198Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.200Z - Song name: 
+2020-02-03T06:33:08.200Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:33:08.200Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.200Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.200Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.200Z - Song name: 
+2020-02-03T06:33:08.200Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:33:08.200Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.201Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.201Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.201Z - Song name: 
+2020-02-03T06:33:08.201Z - Preview link: https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd
+2020-02-03T06:33:08.201Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:08.201Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.201Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.201Z - Song name: 
+2020-02-03T06:33:08.201Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:33:08.201Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.201Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.201Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.201Z - Song name: 
+2020-02-03T06:33:08.201Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:33:08.201Z - Album: Greatest Hits
+2020-02-03T06:33:08.201Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.202Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.202Z - Song name: 
+2020-02-03T06:33:08.202Z - Preview link: https://open.spotify.com/track/4AxVXHgv0clBuS4dl4S7Gw
+2020-02-03T06:33:08.202Z - Album: Cruel Summer (Remastered)
+2020-02-03T06:33:08.202Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.202Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.202Z - Song name: 
+2020-02-03T06:33:08.202Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:33:08.202Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.202Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.202Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.202Z - Song name: 
+2020-02-03T06:33:08.202Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:33:08.202Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.202Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.203Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.203Z - Song name: 
+2020-02-03T06:33:08.203Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:33:08.203Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.203Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.203Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.203Z - Song name: 
+2020-02-03T06:33:08.203Z - Preview link: https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P
+2020-02-03T06:33:08.203Z - Album: Flowers (Remastered)
+2020-02-03T06:33:08.203Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.203Z - Artist(s): Circa Survive
+2020-02-03T06:33:08.203Z - Song name: 
+2020-02-03T06:33:08.203Z - Preview link: https://open.spotify.com/track/4ukTCxesS90m1UMxsr2zum
+2020-02-03T06:33:08.203Z - Album: On Letting Go: Deluxe Ten Year Edition
+2020-02-03T06:33:08.203Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.204Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.204Z - Song name: 
+2020-02-03T06:33:08.204Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:33:08.204Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.204Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.204Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.204Z - Song name: 
+2020-02-03T06:33:08.204Z - Preview link: https://open.spotify.com/track/2O5MugeVVDlVs4ThMCy1Lm
+2020-02-03T06:33:08.204Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:08.204Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.204Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.204Z - Song name: 
+2020-02-03T06:33:08.204Z - Preview link: https://open.spotify.com/track/2K5CxepRrAWH6GeF1PRkoN
+2020-02-03T06:33:08.204Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:08.204Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.205Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.205Z - Song name: 
+2020-02-03T06:33:08.205Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:33:08.205Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.205Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.205Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.205Z - Song name: 
+2020-02-03T06:33:08.205Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:33:08.205Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:08.205Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.205Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.205Z - Song name: 
+2020-02-03T06:33:08.205Z - Preview link: https://open.spotify.com/track/5wxQw7II2TSFbwjaQcoJVB
+2020-02-03T06:33:08.205Z - Album: The Golden Ratio
+2020-02-03T06:33:08.205Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.205Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.205Z - Song name: 
+2020-02-03T06:33:08.205Z - Preview link: https://open.spotify.com/track/4C4T0u9N2NretcDEP1Zpvy
+2020-02-03T06:33:08.205Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:33:08.205Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.205Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.205Z - Song name: 
+2020-02-03T06:33:08.206Z - Preview link: https://open.spotify.com/track/3SiEMvSrdwEanemmQd48zs
+2020-02-03T06:33:08.206Z - Album: Happy Nation (Remastered)
+2020-02-03T06:33:08.206Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:08.206Z - Artist(s): Ace of Base
+2020-02-03T06:33:08.206Z - Song name: 
+2020-02-03T06:33:08.206Z - Preview link: https://open.spotify.com/track/2iA6iYB1vrX7pmeMR6SjIS
+2020-02-03T06:33:08.206Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:08.206Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.130Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.131Z - Song name: 
+2020-02-03T06:33:42.132Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:33:42.132Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.132Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.132Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.132Z - Song name: 
+2020-02-03T06:33:42.132Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:33:42.132Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.132Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.132Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.132Z - Song name: 
+2020-02-03T06:33:42.132Z - Preview link: https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd
+2020-02-03T06:33:42.132Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:42.132Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.132Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.132Z - Song name: 
+2020-02-03T06:33:42.132Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:33:42.132Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.132Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.132Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.132Z - Song name: 
+2020-02-03T06:33:42.133Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:33:42.133Z - Album: Greatest Hits
+2020-02-03T06:33:42.133Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.133Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.133Z - Song name: 
+2020-02-03T06:33:42.133Z - Preview link: https://open.spotify.com/track/4AxVXHgv0clBuS4dl4S7Gw
+2020-02-03T06:33:42.134Z - Album: Cruel Summer (Remastered)
+2020-02-03T06:33:42.134Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.134Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.134Z - Song name: 
+2020-02-03T06:33:42.134Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:33:42.134Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.134Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.134Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.134Z - Song name: 
+2020-02-03T06:33:42.134Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:33:42.134Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.134Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.134Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.134Z - Song name: 
+2020-02-03T06:33:42.134Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:33:42.134Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.134Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.135Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.135Z - Song name: 
+2020-02-03T06:33:42.135Z - Preview link: https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P
+2020-02-03T06:33:42.135Z - Album: Flowers (Remastered)
+2020-02-03T06:33:42.135Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.135Z - Artist(s): Circa Survive
+2020-02-03T06:33:42.135Z - Song name: 
+2020-02-03T06:33:42.135Z - Preview link: https://open.spotify.com/track/4ukTCxesS90m1UMxsr2zum
+2020-02-03T06:33:42.135Z - Album: On Letting Go: Deluxe Ten Year Edition
+2020-02-03T06:33:42.135Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.135Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.135Z - Song name: 
+2020-02-03T06:33:42.135Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:33:42.135Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.135Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.135Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.135Z - Song name: 
+2020-02-03T06:33:42.135Z - Preview link: https://open.spotify.com/track/2O5MugeVVDlVs4ThMCy1Lm
+2020-02-03T06:33:42.135Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:42.135Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.135Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.135Z - Song name: 
+2020-02-03T06:33:42.136Z - Preview link: https://open.spotify.com/track/2K5CxepRrAWH6GeF1PRkoN
+2020-02-03T06:33:42.136Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:42.136Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.136Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.136Z - Song name: 
+2020-02-03T06:33:42.136Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:33:42.136Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.136Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.136Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.136Z - Song name: 
+2020-02-03T06:33:42.136Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:33:42.136Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:33:42.136Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.136Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.136Z - Song name: 
+2020-02-03T06:33:42.136Z - Preview link: https://open.spotify.com/track/5wxQw7II2TSFbwjaQcoJVB
+2020-02-03T06:33:42.136Z - Album: The Golden Ratio
+2020-02-03T06:33:42.136Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.136Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.136Z - Song name: 
+2020-02-03T06:33:42.136Z - Preview link: https://open.spotify.com/track/4C4T0u9N2NretcDEP1Zpvy
+2020-02-03T06:33:42.136Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:33:42.136Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.137Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.137Z - Song name: 
+2020-02-03T06:33:42.137Z - Preview link: https://open.spotify.com/track/3SiEMvSrdwEanemmQd48zs
+2020-02-03T06:33:42.137Z - Album: Happy Nation (Remastered)
+2020-02-03T06:33:42.137Z - ------------------------------------------------------------------------------
+2020-02-03T06:33:42.137Z - Artist(s): Ace of Base
+2020-02-03T06:33:42.137Z - Song name: 
+2020-02-03T06:33:42.137Z - Preview link: https://open.spotify.com/track/2iA6iYB1vrX7pmeMR6SjIS
+2020-02-03T06:33:42.137Z - Album: The Bridge (Remastered)
+2020-02-03T06:33:42.137Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.985Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.986Z - Song name: 
+2020-02-03T06:34:16.987Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:34:16.987Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.987Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.987Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.987Z - Song name: 
+2020-02-03T06:34:16.987Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:34:16.987Z - Album: Greatest Hits
+2020-02-03T06:34:16.987Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.987Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.987Z - Song name: 
+2020-02-03T06:34:16.987Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:34:16.987Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:34:16.987Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.987Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.987Z - Song name: 
+2020-02-03T06:34:16.987Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:34:16.987Z - Album: The Sign (The Remixes)
+2020-02-03T06:34:16.987Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.988Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.988Z - Song name: 
+2020-02-03T06:34:16.988Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:34:16.988Z - Album: The Sign (The Remixes)
+2020-02-03T06:34:16.988Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.988Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.988Z - Song name: 
+2020-02-03T06:34:16.988Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:34:16.988Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.988Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.988Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.988Z - Song name: 
+2020-02-03T06:34:16.988Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:34:16.988Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.988Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.988Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.988Z - Song name: 
+2020-02-03T06:34:16.989Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:34:16.989Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.989Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.989Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.989Z - Song name: 
+2020-02-03T06:34:16.989Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:34:16.989Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.989Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.989Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.989Z - Song name: 
+2020-02-03T06:34:16.989Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:34:16.989Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.989Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.989Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.989Z - Song name: 
+2020-02-03T06:34:16.989Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:34:16.989Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.989Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.989Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.989Z - Song name: 
+2020-02-03T06:34:16.989Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:34:16.989Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.989Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.990Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.990Z - Song name: 
+2020-02-03T06:34:16.990Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:34:16.990Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.990Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.990Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.990Z - Song name: 
+2020-02-03T06:34:16.990Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:34:16.990Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.990Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.990Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.990Z - Song name: 
+2020-02-03T06:34:16.990Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:34:16.990Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.990Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.990Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.990Z - Song name: 
+2020-02-03T06:34:16.990Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:34:16.990Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.990Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.991Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.991Z - Song name: 
+2020-02-03T06:34:16.991Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:34:16.991Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:34:16.991Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.991Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.991Z - Song name: 
+2020-02-03T06:34:16.991Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:34:16.991Z - Album: The Sign (The Remixes)
+2020-02-03T06:34:16.991Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.991Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.991Z - Song name: 
+2020-02-03T06:34:16.991Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:34:16.991Z - Album: The Sign (The Remixes)
+2020-02-03T06:34:16.991Z - ------------------------------------------------------------------------------
+2020-02-03T06:34:16.991Z - Artist(s): Ace of Base
+2020-02-03T06:34:16.991Z - Song name: 
+2020-02-03T06:34:16.991Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:34:16.991Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:34:16.991Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.912Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.913Z - Song name: 
+2020-02-03T06:36:55.913Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:36:55.913Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.913Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.913Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.913Z - Song name: 
+2020-02-03T06:36:55.913Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:36:55.913Z - Album: Greatest Hits
+2020-02-03T06:36:55.913Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.914Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.914Z - Song name: 
+2020-02-03T06:36:55.914Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:36:55.914Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:36:55.914Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.914Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.914Z - Song name: 
+2020-02-03T06:36:55.914Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:36:55.914Z - Album: The Sign (The Remixes)
+2020-02-03T06:36:55.914Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.914Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.914Z - Song name: 
+2020-02-03T06:36:55.914Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:36:55.914Z - Album: The Sign (The Remixes)
+2020-02-03T06:36:55.914Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.915Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.915Z - Song name: 
+2020-02-03T06:36:55.915Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:36:55.915Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.915Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.915Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.915Z - Song name: 
+2020-02-03T06:36:55.915Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:36:55.915Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.915Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.915Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.915Z - Song name: 
+2020-02-03T06:36:55.915Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:36:55.915Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.915Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.916Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.916Z - Song name: 
+2020-02-03T06:36:55.916Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:36:55.916Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.916Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.916Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.916Z - Song name: 
+2020-02-03T06:36:55.916Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:36:55.916Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.916Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.916Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.916Z - Song name: 
+2020-02-03T06:36:55.916Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:36:55.916Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.916Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.916Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.916Z - Song name: 
+2020-02-03T06:36:55.916Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:36:55.916Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.916Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.917Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.917Z - Song name: 
+2020-02-03T06:36:55.917Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:36:55.917Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.917Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.917Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.917Z - Song name: 
+2020-02-03T06:36:55.917Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:36:55.917Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.917Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.917Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.917Z - Song name: 
+2020-02-03T06:36:55.917Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:36:55.917Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.917Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.917Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.917Z - Song name: 
+2020-02-03T06:36:55.917Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:36:55.917Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.917Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.917Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.917Z - Song name: 
+2020-02-03T06:36:55.918Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:36:55.918Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:36:55.918Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.918Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.918Z - Song name: 
+2020-02-03T06:36:55.918Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:36:55.918Z - Album: The Sign (The Remixes)
+2020-02-03T06:36:55.918Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.918Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.918Z - Song name: 
+2020-02-03T06:36:55.918Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:36:55.918Z - Album: The Sign (The Remixes)
+2020-02-03T06:36:55.918Z - ------------------------------------------------------------------------------
+2020-02-03T06:36:55.918Z - Artist(s): Ace of Base
+2020-02-03T06:36:55.918Z - Song name: 
+2020-02-03T06:36:55.918Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:36:55.919Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:36:55.919Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.109Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.111Z - Song name: 
+2020-02-03T06:37:50.111Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:37:50.111Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.111Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.112Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.112Z - Song name: 
+2020-02-03T06:37:50.112Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:37:50.112Z - Album: Greatest Hits
+2020-02-03T06:37:50.112Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.112Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.112Z - Song name: 
+2020-02-03T06:37:50.112Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:37:50.112Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:37:50.112Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.112Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.112Z - Song name: 
+2020-02-03T06:37:50.112Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:37:50.112Z - Album: The Sign (The Remixes)
+2020-02-03T06:37:50.112Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.113Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.113Z - Song name: 
+2020-02-03T06:37:50.113Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:37:50.113Z - Album: The Sign (The Remixes)
+2020-02-03T06:37:50.113Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.113Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.113Z - Song name: 
+2020-02-03T06:37:50.113Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:37:50.113Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.113Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.113Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.113Z - Song name: 
+2020-02-03T06:37:50.113Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:37:50.113Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.113Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.113Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.114Z - Song name: 
+2020-02-03T06:37:50.114Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:37:50.114Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.114Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.114Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.114Z - Song name: 
+2020-02-03T06:37:50.114Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:37:50.114Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.114Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.114Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.114Z - Song name: 
+2020-02-03T06:37:50.114Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:37:50.114Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.114Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.114Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.114Z - Song name: 
+2020-02-03T06:37:50.114Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:37:50.114Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.114Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.115Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.115Z - Song name: 
+2020-02-03T06:37:50.115Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:37:50.115Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.115Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.115Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.115Z - Song name: 
+2020-02-03T06:37:50.115Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:37:50.115Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.115Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.115Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.115Z - Song name: 
+2020-02-03T06:37:50.115Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:37:50.115Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.115Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.115Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.115Z - Song name: 
+2020-02-03T06:37:50.115Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:37:50.116Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.116Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.116Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.116Z - Song name: 
+2020-02-03T06:37:50.116Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:37:50.116Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.116Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.116Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.116Z - Song name: 
+2020-02-03T06:37:50.116Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:37:50.116Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:37:50.116Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.116Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.116Z - Song name: 
+2020-02-03T06:37:50.116Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:37:50.116Z - Album: The Sign (The Remixes)
+2020-02-03T06:37:50.116Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.117Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.117Z - Song name: 
+2020-02-03T06:37:50.117Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:37:50.117Z - Album: The Sign (The Remixes)
+2020-02-03T06:37:50.117Z - ------------------------------------------------------------------------------
+2020-02-03T06:37:50.117Z - Artist(s): Ace of Base
+2020-02-03T06:37:50.117Z - Song name: 
+2020-02-03T06:37:50.117Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:37:50.117Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:37:50.117Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.979Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.981Z - Song name: 
+2020-02-03T06:38:08.981Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:38:08.981Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.981Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.981Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.981Z - Song name: 
+2020-02-03T06:38:08.981Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:38:08.981Z - Album: Greatest Hits
+2020-02-03T06:38:08.981Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.982Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.982Z - Song name: 
+2020-02-03T06:38:08.982Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:38:08.982Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:38:08.982Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.982Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.982Z - Song name: 
+2020-02-03T06:38:08.982Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:38:08.982Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:08.982Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.982Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.982Z - Song name: 
+2020-02-03T06:38:08.982Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:38:08.982Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:08.982Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.983Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.983Z - Song name: 
+2020-02-03T06:38:08.983Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:38:08.983Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.983Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.983Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.983Z - Song name: 
+2020-02-03T06:38:08.983Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:38:08.983Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.983Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.983Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.983Z - Song name: 
+2020-02-03T06:38:08.983Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:38:08.983Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.983Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.984Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.984Z - Song name: 
+2020-02-03T06:38:08.984Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:38:08.984Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.984Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.984Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.984Z - Song name: 
+2020-02-03T06:38:08.984Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:38:08.984Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.984Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.984Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.984Z - Song name: 
+2020-02-03T06:38:08.984Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:38:08.984Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.984Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.984Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.984Z - Song name: 
+2020-02-03T06:38:08.984Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:38:08.984Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.984Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.985Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.985Z - Song name: 
+2020-02-03T06:38:08.985Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:38:08.985Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.985Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.985Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.985Z - Song name: 
+2020-02-03T06:38:08.985Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:38:08.985Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.985Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.985Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.985Z - Song name: 
+2020-02-03T06:38:08.985Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:38:08.985Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.985Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.985Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.985Z - Song name: 
+2020-02-03T06:38:08.985Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:38:08.985Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.986Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.986Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.986Z - Song name: 
+2020-02-03T06:38:08.986Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:38:08.986Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:08.986Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.986Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.986Z - Song name: 
+2020-02-03T06:38:08.986Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:38:08.986Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:08.986Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.986Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.986Z - Song name: 
+2020-02-03T06:38:08.986Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:38:08.986Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:08.986Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:08.987Z - Artist(s): Ace of Base
+2020-02-03T06:38:08.987Z - Song name: 
+2020-02-03T06:38:08.987Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:38:08.987Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:38:08.987Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.426Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.428Z - Song name: 
+2020-02-03T06:38:40.428Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:38:40.428Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.428Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.428Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.428Z - Song name: 
+2020-02-03T06:38:40.428Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:38:40.428Z - Album: Greatest Hits
+2020-02-03T06:38:40.428Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.428Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.428Z - Song name: 
+2020-02-03T06:38:40.428Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:38:40.428Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:38:40.428Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.429Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.429Z - Song name: 
+2020-02-03T06:38:40.429Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:38:40.429Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:40.429Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.429Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.429Z - Song name: 
+2020-02-03T06:38:40.429Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:38:40.429Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:40.429Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.429Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.429Z - Song name: 
+2020-02-03T06:38:40.429Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:38:40.429Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.429Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.429Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.430Z - Song name: 
+2020-02-03T06:38:40.430Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:38:40.430Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.430Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.430Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.430Z - Song name: 
+2020-02-03T06:38:40.430Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:38:40.430Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.430Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.430Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.430Z - Song name: 
+2020-02-03T06:38:40.430Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:38:40.430Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.430Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.430Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.430Z - Song name: 
+2020-02-03T06:38:40.430Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:38:40.430Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.430Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.430Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.431Z - Song name: 
+2020-02-03T06:38:40.431Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:38:40.431Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.431Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.431Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.431Z - Song name: 
+2020-02-03T06:38:40.431Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:38:40.431Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.431Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.431Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.431Z - Song name: 
+2020-02-03T06:38:40.431Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:38:40.431Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.431Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.431Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.431Z - Song name: 
+2020-02-03T06:38:40.431Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:38:40.431Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.431Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.432Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.432Z - Song name: 
+2020-02-03T06:38:40.432Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:38:40.432Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.432Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.432Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.432Z - Song name: 
+2020-02-03T06:38:40.432Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:38:40.432Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.432Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.432Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.432Z - Song name: 
+2020-02-03T06:38:40.432Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:38:40.432Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:38:40.432Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.432Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.432Z - Song name: 
+2020-02-03T06:38:40.432Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:38:40.433Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:40.433Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.433Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.433Z - Song name: 
+2020-02-03T06:38:40.433Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:38:40.433Z - Album: The Sign (The Remixes)
+2020-02-03T06:38:40.433Z - ------------------------------------------------------------------------------
+2020-02-03T06:38:40.433Z - Artist(s): Ace of Base
+2020-02-03T06:38:40.433Z - Song name: 
+2020-02-03T06:38:40.433Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:38:40.433Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:38:40.433Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.158Z - spotify-this-song
+2020-02-03T06:39:14.160Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.160Z - Song name: 
+2020-02-03T06:39:14.160Z - Preview link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+2020-02-03T06:39:14.160Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.160Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.160Z - spotify-this-song
+2020-02-03T06:39:14.160Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.160Z - Song name: 
+2020-02-03T06:39:14.160Z - Preview link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+2020-02-03T06:39:14.160Z - Album: Greatest Hits
+2020-02-03T06:39:14.160Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.160Z - spotify-this-song
+2020-02-03T06:39:14.160Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.160Z - Song name: 
+2020-02-03T06:39:14.161Z - Preview link: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+2020-02-03T06:39:14.161Z - Album: Happy Nation (U.S. Version) [Remastered]
+2020-02-03T06:39:14.161Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.161Z - spotify-this-song
+2020-02-03T06:39:14.161Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.161Z - Song name: 
+2020-02-03T06:39:14.161Z - Preview link: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+2020-02-03T06:39:14.161Z - Album: The Sign (The Remixes)
+2020-02-03T06:39:14.161Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.161Z - spotify-this-song
+2020-02-03T06:39:14.161Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.161Z - Song name: 
+2020-02-03T06:39:14.161Z - Preview link: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+2020-02-03T06:39:14.161Z - Album: The Sign (The Remixes)
+2020-02-03T06:39:14.161Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.161Z - spotify-this-song
+2020-02-03T06:39:14.161Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.161Z - Song name: 
+2020-02-03T06:39:14.161Z - Preview link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+2020-02-03T06:39:14.161Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.161Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.162Z - spotify-this-song
+2020-02-03T06:39:14.162Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.162Z - Song name: 
+2020-02-03T06:39:14.162Z - Preview link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+2020-02-03T06:39:14.162Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.162Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.162Z - spotify-this-song
+2020-02-03T06:39:14.162Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.162Z - Song name: 
+2020-02-03T06:39:14.162Z - Preview link: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+2020-02-03T06:39:14.162Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.162Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.162Z - spotify-this-song
+2020-02-03T06:39:14.162Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.162Z - Song name: 
+2020-02-03T06:39:14.162Z - Preview link: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+2020-02-03T06:39:14.162Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.162Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.162Z - spotify-this-song
+2020-02-03T06:39:14.162Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.162Z - Song name: 
+2020-02-03T06:39:14.162Z - Preview link: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+2020-02-03T06:39:14.162Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.163Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.163Z - spotify-this-song
+2020-02-03T06:39:14.163Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.163Z - Song name: 
+2020-02-03T06:39:14.163Z - Preview link: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+2020-02-03T06:39:14.163Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.163Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.163Z - spotify-this-song
+2020-02-03T06:39:14.163Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.163Z - Song name: 
+2020-02-03T06:39:14.163Z - Preview link: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+2020-02-03T06:39:14.163Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.163Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.163Z - spotify-this-song
+2020-02-03T06:39:14.163Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.163Z - Song name: 
+2020-02-03T06:39:14.163Z - Preview link: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+2020-02-03T06:39:14.163Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.163Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.163Z - spotify-this-song
+2020-02-03T06:39:14.163Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.163Z - Song name: 
+2020-02-03T06:39:14.163Z - Preview link: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+2020-02-03T06:39:14.163Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.163Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.164Z - spotify-this-song
+2020-02-03T06:39:14.164Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.164Z - Song name: 
+2020-02-03T06:39:14.164Z - Preview link: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+2020-02-03T06:39:14.164Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.164Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.164Z - spotify-this-song
+2020-02-03T06:39:14.164Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.164Z - Song name: 
+2020-02-03T06:39:14.164Z - Preview link: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+2020-02-03T06:39:14.164Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.164Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.164Z - spotify-this-song
+2020-02-03T06:39:14.164Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.164Z - Song name: 
+2020-02-03T06:39:14.164Z - Preview link: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+2020-02-03T06:39:14.164Z - Album: The Sign (US Album) [Remastered]
+2020-02-03T06:39:14.164Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.164Z - spotify-this-song
+2020-02-03T06:39:14.164Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.164Z - Song name: 
+2020-02-03T06:39:14.164Z - Preview link: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+2020-02-03T06:39:14.165Z - Album: The Sign (The Remixes)
+2020-02-03T06:39:14.165Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.165Z - spotify-this-song
+2020-02-03T06:39:14.165Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.165Z - Song name: 
+2020-02-03T06:39:14.165Z - Preview link: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+2020-02-03T06:39:14.165Z - Album: The Sign (The Remixes)
+2020-02-03T06:39:14.165Z - ------------------------------------------------------------------------------
+2020-02-03T06:39:14.165Z - spotify-this-song
+2020-02-03T06:39:14.165Z - Artist(s): Ace of Base
+2020-02-03T06:39:14.165Z - Song name: 
+2020-02-03T06:39:14.165Z - Preview link: https://open.spotify.com/track/5iLcJA6XkKs9akfH7oNY6z
+2020-02-03T06:39:14.165Z - Album: Greatest Hits (Bonus Track Version)
+2020-02-03T06:39:14.165Z - ------------------------------------------------------------------------------
+2020-02-03T06:40:05.296Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:40:05.297Z - Year released: 2017
+2020-02-03T06:40:05.298Z - IMDB raiting: 7.6/10
+2020-02-03T06:40:05.298Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:40:05.298Z - Country produced: USA
+2020-02-03T06:40:05.298Z - Language: English
+2020-02-03T06:40:05.298Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:40:05.298Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:40:05.298Z - ------------------------------------------------------------------------------
+2020-02-03T06:40:28.183Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:40:28.184Z - Year released: 2017
+2020-02-03T06:40:28.184Z - IMDB raiting: 7.6/10
+2020-02-03T06:40:28.184Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:40:28.184Z - Country produced: USA
+2020-02-03T06:40:28.184Z - Language: English
+2020-02-03T06:40:28.184Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:40:28.184Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:40:28.184Z - ------------------------------------------------------------------------------
+2020-02-03T06:40:58.943Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:40:58.944Z - Year released: 2017
+2020-02-03T06:40:58.944Z - IMDB raiting: 7.6/10
+2020-02-03T06:40:58.945Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:40:58.945Z - Country produced: USA
+2020-02-03T06:40:58.945Z - Language: English
+2020-02-03T06:40:58.945Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:40:58.945Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:40:58.945Z - ------------------------------------------------------------------------------
+2020-02-03T06:41:11.551Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:41:11.553Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:41:11.553Z - Year released: 2017
+2020-02-03T06:41:11.553Z - IMDB raiting: 7.6/10
+2020-02-03T06:41:11.553Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:41:11.553Z - Country produced: USA
+2020-02-03T06:41:11.553Z - Language: English
+2020-02-03T06:41:11.553Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:41:11.553Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:41:11.553Z - ------------------------------------------------------------------------------
+2020-02-03T06:42:03.632Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:03.633Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:03.633Z - Year released: 2017
+2020-02-03T06:42:03.634Z - IMDB raiting: 7.6/10
+2020-02-03T06:42:03.634Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:42:03.634Z - Country produced: USA
+2020-02-03T06:42:03.634Z - Language: English
+2020-02-03T06:42:03.634Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:42:03.634Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:42:03.634Z - ------------------------------------------------------------------------------
+2020-02-03T06:42:07.200Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:07.202Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:07.202Z - Year released: 2017
+2020-02-03T06:42:07.202Z - IMDB raiting: 7.6/10
+2020-02-03T06:42:07.202Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:42:07.202Z - Country produced: USA
+2020-02-03T06:42:07.202Z - Language: English
+2020-02-03T06:42:07.202Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:42:07.202Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:42:07.202Z - ------------------------------------------------------------------------------
+2020-02-03T06:42:25.417Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:25.419Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:25.419Z - Year released: 2017
+2020-02-03T06:42:25.419Z - IMDB raiting: 7.6/10
+2020-02-03T06:42:25.419Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:42:25.419Z - Country produced: USA
+2020-02-03T06:42:25.419Z - Language: English
+2020-02-03T06:42:25.419Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:42:25.419Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:42:25.419Z - ------------------------------------------------------------------------------
+2020-02-03T06:42:40.737Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:40.738Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:40.739Z - Year released: 2017
+2020-02-03T06:42:40.739Z - IMDB raiting: 7.6/10
+2020-02-03T06:42:40.739Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:42:40.739Z - Country produced: USA
+2020-02-03T06:42:40.739Z - Language: English
+2020-02-03T06:42:40.739Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:42:40.739Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:42:40.739Z - ------------------------------------------------------------------------------
+2020-02-03T06:42:55.248Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:55.249Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:42:55.249Z - Year released: 2017
+2020-02-03T06:42:55.249Z - IMDB raiting: 7.6/10
+2020-02-03T06:42:55.249Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:42:55.249Z - Country produced: USA
+2020-02-03T06:42:55.249Z - Language: English
+2020-02-03T06:42:55.249Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:42:55.249Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:42:55.249Z - ------------------------------------------------------------------------------
+2020-02-03T06:43:07.659Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:43:07.660Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:43:07.660Z - Year released: 2017
+2020-02-03T06:43:07.661Z - IMDB raiting: 7.6/10
+2020-02-03T06:43:07.661Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:43:07.661Z - Country produced: USA
+2020-02-03T06:43:07.661Z - Language: English
+2020-02-03T06:43:07.661Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:43:07.661Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:43:07.661Z - ------------------------------------------------------------------------------
+2020-02-03T06:43:26.201Z - movie-this Guardians of the Galaxy Vol. 2
+2020-02-03T06:43:26.202Z - Title: Guardians of the Galaxy Vol. 2
+2020-02-03T06:43:26.203Z - Year released: 2017
+2020-02-03T06:43:26.203Z - IMDB raiting: 7.6/10
+2020-02-03T06:43:26.203Z - Rotten Tommatoes rating: 85%
+2020-02-03T06:43:26.203Z - Country produced: USA
+2020-02-03T06:43:26.203Z - Language: English
+2020-02-03T06:43:26.203Z - Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+2020-02-03T06:43:26.203Z - Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+2020-02-03T06:43:26.203Z - ------------------------------------------------------------------------------
+2020-02-03T06:43:41.757Z - movie-this Mr. Nobody
+2020-02-03T06:43:41.759Z - Title: Mr. Nobody
+2020-02-03T06:43:41.759Z - Year released: 2009
+2020-02-03T06:43:41.759Z - IMDB raiting: 7.8/10
+2020-02-03T06:43:41.759Z - Rotten Tommatoes rating: 67%
+2020-02-03T06:43:41.759Z - Country produced: Belgium, Germany, Canada, France, USA, UK
+2020-02-03T06:43:41.759Z - Language: English, Mohawk
+2020-02-03T06:43:41.759Z - Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+2020-02-03T06:43:41.759Z - Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+2020-02-03T06:43:41.759Z - ------------------------------------------------------------------------------
