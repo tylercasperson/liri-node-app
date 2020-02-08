@@ -8,7 +8,8 @@
 6. Clearly list the technologies used in the app
 7. State your role in the app development
 
-
+Explination of the liri-app
+https://drive.google.com/file/d/1NBkc4KCqzxzTRWG1BNzdTyxkOfHY8rqw/view
 
 http://www.omdbapi.com
 https://www.artists.bandsintown.com/managed-actors/artist

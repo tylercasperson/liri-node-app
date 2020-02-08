@@ -1,7 +1,7 @@
 require("dotenv").config();
 var fs = require("fs");
 var axios = require("axios");
-
+var moment = require("moment");
 
 const { createLogger, format, transports } = require('winston');
 const { combine, label, timestamp, printf } = format;
@@ -51,7 +51,7 @@ axios
   .then(function(response) {
     var venueName = response.data[0].venue.name;
     var venueLocation = response.data[0].venue.city + ', ' + response.data[0].venue.region + ' ' + response.data[0].venue.country + ' Planet Earth';
-    var eventDate = response.data[0].datetime; //convert with moment
+    var eventDate = moment(response.data[0].datetime).format('MM/DD/YYYY'); //convert with moment
     console.log('Name of the venue: ' + venueName);
     console.log('Venue location: ' + venueLocation);
     console.log('Date of the Event: ' + eventDate);
